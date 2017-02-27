@@ -1,7 +1,7 @@
 from random import *
 
 class square(object):
-    def __init__(self, x, y, d): # create square at (x,y) with lenght d
+    def __init__(self, x, y, d): # create square at (x,y) with length d
         self.x = x
         self.y = y
         self.d = d
